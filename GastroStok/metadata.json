@@ -1,0 +1,6 @@
+{
+  "name": "GastroStok - AI Destekli Restoran Stok ve Fire Yönetimi",
+  "description": "Restoran ve kafelerin geçmiş satış verilerini analiz ederek stok ihtiyaçlarını tahmin eden ve fireyi önleyen AI destekli web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
