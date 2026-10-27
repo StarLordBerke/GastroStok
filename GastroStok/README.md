@@ -101,12 +101,7 @@ GastroStok, kurumsal ölçekte hız, sıfır sayfa yenileme süresi ve tam tip g
 
 Projenin canlı ortamda çalışan tam fonksiyonel sürümüne aşağıdaki bağlantılardan anında erişebilirsiniz:
 
-| Dağıtım Türü | Bağlantı URL | Açıklama & Durum |
-| :--- | :--- | :--- |
-| 🚀 **Canlı Web Sitesi (Production)** | **[GastroStok Canlı Sürümü Aç](https://ais-pre-s6jvgezec24ukfpq3e5k3s-524291745461.europe-west3.run.app)** | 🟢 **Aktif & Yayında** (Tüm görseller, hesaplayıcılar ve paneller tam çalışır) |
-| 🧪 **Önizleme & Test Ortamı (Staging)** | **[Canlı Önizleme Bağlantısı](https://ais-pre-s6jvgezec24ukfpq3e5k3s-524291745461.europe-west3.run.app)** | 🟢 **Yayında** |
-| 💻 **Geliştirici Canlı Konsolu (Dev)** | **[Geliştirici Sürümü](https://ais-dev-s6jvgezec24ukfpq3e5k3s-524291745461.europe-west3.run.app)** | 🟡 **Geliştirme Ortamı** |
-| 🌍 **Özel Alan Adı (Custom Domain)** | `https://gastrostok.app` *(Kendi canlı domaininizi buraya yazabilirsiniz)* | 🔄 Yönlendirilebilir |
+🚀 **Canlı Web Sitesi (Production)**
 
 ---
 
