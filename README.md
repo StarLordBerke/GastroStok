@@ -26,6 +26,12 @@ Geleneksel restoran yönetiminde mutfak şefleri siparişleri tahminlere göre v
 
 **GastroStok**, satış noktası (POS) verilerini, geçmiş tüketim istatistiklerini, hava durumu tahminlerini ve dinamik dijital reçeteleri bir araya getirerek mutfağın ihtiyaç duyduğu hammaddeyi gün gün, gram gram hesaplar; aşırı satın alımları, bayatlamayı ve porsiyon firelerini sıfıra indirir.
 
+## 📸 Proje Görselleri ve Arayüz Galerisi
+
+GastroStok platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir:
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke/GastroStok/blob/main/img/anasayfa.png" alt="anasayfa" width="1200"/></a>
+
 ---
 
 ### 🎯 Projenin Çözdüğü Temel Sektörel Sorunlar
