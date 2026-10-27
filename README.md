@@ -101,7 +101,7 @@ GastroStok, kurumsal ölçekte hız, sıfır sayfa yenileme süresi ve tam tip g
 
 Projenin canlı ortamda çalışan tam fonksiyonel sürümüne aşağıdaki bağlantılardan anında erişebilirsiniz:
 
-🚀 **Canlı Web Sitesi (Production)**
+- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://gastro-stok.vercel.app/](https://gastro-stok.vercel.app/)
 
 ---
 
