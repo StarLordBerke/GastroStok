@@ -277,7 +277,7 @@ Projeyi GitHub'a yükledikten sonra dilediğiniz platformda ücretsiz olarak yay
 
 ## 📄 Lisans
 
-Bu proje **[Apache License 2.0](LICENSE)** kapsamında lisanslanmıştır. Açık kaynak kodlu olup ticari ve bireysel gastronomi projelerinde serbestçe kullanılabilir.
+Bu proje **[MIT License](LICENSE)** kapsamında lisanslanmıştır. Açık kaynak kodlu olup ticari ve bireysel gastronomi projelerinde serbestçe kullanılabilir.
 
 ---
 
