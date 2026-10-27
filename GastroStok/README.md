@@ -13,8 +13,6 @@
 
 **"Mutfaktaki fireyi durdurun. Yapay zeka ile stoklarınızı yönetin, kârlılığınızı artırın."**
 
-[📖 Proje Hakkında](#-proje-hakkında-about-gastrostok) • [🌐 Canlı Sürüm & Demo](#-canlı-demo--canlıya-alınmış-sürüm-live-deployment) • [⚙️ Teknik Mimari](#-teknik-detaylar-ve-mimari-technical-architecture) • [✨ Modüller](#-özellikler-ve-modüller) • [🚀 Kurulum](#-kurulum-ve-yerel-çalıştırma-getting-started) • [☁️ Dağıtım](#-canlıya-alma-rehberi-deployment)
-
 </div>
 
 ---
